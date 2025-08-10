@@ -128,12 +128,6 @@ roomily-landing/
 - **Mobile-first Design**: Responsive từ mobile lên desktop
 - **No Dependencies**: Pure CSS, load nhanh
 
-## 📞 Liên hệ
-
-- Email: roomily@gmail.com
-- Phone: 0123456789
-- Website: [Roomily Landing Page](http://localhost:5173)
-
 ## 📄 License
 
 © 2025 Roomily. All rights reserved.
